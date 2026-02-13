@@ -1,2 +1,2 @@
-# Primeiro-ProjetoEste é o meu primeiro commit como desenvolvedor!
-Aprendendo sobre Pull Requests
+# Meu Primeiro Projeto Profissional
+Estou aprendendo Next.js, React e TypeScript com o Manus!
